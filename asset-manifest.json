@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/REACT-GITHUB-PAGES/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/REACT-GITHUB-PAGES/static/js/main.04b8f2c1.chunk.js",
+    "main.js.map": "/REACT-GITHUB-PAGES/static/js/main.04b8f2c1.chunk.js.map",
+    "runtime-main.js": "/REACT-GITHUB-PAGES/static/js/runtime-main.fc1d924c.js",
+    "runtime-main.js.map": "/REACT-GITHUB-PAGES/static/js/runtime-main.fc1d924c.js.map",
+    "static/js/2.a4004490.chunk.js": "/REACT-GITHUB-PAGES/static/js/2.a4004490.chunk.js",
+    "static/js/2.a4004490.chunk.js.map": "/REACT-GITHUB-PAGES/static/js/2.a4004490.chunk.js.map",
+    "static/js/3.30fabcfb.chunk.js": "/REACT-GITHUB-PAGES/static/js/3.30fabcfb.chunk.js",
+    "static/js/3.30fabcfb.chunk.js.map": "/REACT-GITHUB-PAGES/static/js/3.30fabcfb.chunk.js.map",
+    "index.html": "/REACT-GITHUB-PAGES/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/REACT-GITHUB-PAGES/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a4004490.chunk.js.LICENSE.txt": "/REACT-GITHUB-PAGES/static/js/2.a4004490.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/REACT-GITHUB-PAGES/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1d924c.js",
+    "static/js/2.a4004490.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.04b8f2c1.chunk.js"
+  ]
+}
